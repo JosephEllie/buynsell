@@ -1,3 +1,4 @@
+/* eslint-disable react/no-unescaped-entities */
 import React from 'react';
 import { LuMenu } from "react-icons/lu"
 
@@ -10,7 +11,7 @@ const BottomHeader = () => {
             </p>
             <p className="hidden md:inline-flex items-center h-8 px-2 border border-transparent hover:border-white
             cursor-pointer duration-300">
-                Today's Deal
+                Today's  Deal 
             </p>
             <p className="hidden md:inline-flex items-center h-8 px-2 border border-transparent hover:border-white
             cursor-pointer duration-300">
